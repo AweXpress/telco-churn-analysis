@@ -1,15 +1,16 @@
-# Telco Customer Churn Analysis
+## 📸 Project Screenshots
 
-**Churn Rate: 26.58% | 7,043 Customers Analyzed**
+### R Analysis
+![R Churn Analysis](R_churn_distribution.png)
+![R Model](R_logistic_model.png)
 
-### Tools Used:
-- **R**: Survival analysis, Logistic Regression, Random Forest
-- **Stata**: Econometric modeling (logit, marginal effects)
-- **Excel**: Executive Dashboard + 6 KPIs + ROI Model
+### Stata Econometrics
+![Stata Output](Stata_logit_output.png)
 
-### Key Insights:
-- Fiber optic + month-to-month = highest churn risk
-- 2-year contracts reduce churn by 60%
-- Automated saving: $1.2M revenue at risk identified
+### Excel Executive Dashboard
+![Excel Dashboard](Excel_Executive_Dashboard.png)
 
-Portfolio by AweXpress - Data Analyst | Lagos, NG
+## 🛠️ Files
+- `Telco_Customer_Churn.R` - Full R analysis
+- `telco customer stata.dta` - Stata dataset + do-file
+- `Executive_Excel_Report.xlsx` - Dashboard + KPIs
